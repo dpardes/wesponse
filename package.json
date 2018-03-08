@@ -1,0 +1,19 @@
+{
+  "name": "wesponse",
+  "version": "1.0.0",
+  "description": "GET some URIs and print the status code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpardes/wesponse.git"
+  },
+  "author": "Daniel Pardes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpardes/wesponse/issues"
+  },
+  "homepage": "https://github.com/dpardes/wesponse#readme"
+}
